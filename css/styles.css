@@ -1,0 +1,30 @@
+body {
+  background-color: silver;
+}
+
+hr {
+  border-style: none;
+  border-top: 6px dotted white;
+  width: 5%
+}
+
+table {
+  background-color: red;
+}
+
+ul {
+  background-color: orange;
+}
+
+ol {
+  background-color: green;
+  color: white;
+}
+
+h3 {
+  background-color: pink;
+}
+
+p {
+  background-color: lightblue;
+}
